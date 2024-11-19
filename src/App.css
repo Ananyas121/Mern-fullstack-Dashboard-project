@@ -1,0 +1,55 @@
+/* src/App.css */
+
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .App img {
+    height: 4rem;
+    margin: 0.5rem;
+  }
+  
+  .App button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .App button:hover {
+    background-color: #45a049;
+  }
+  
+  .App header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .App header a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .App header a:hover {
+    color: #4CAF50;
+  }
+  
